@@ -12,8 +12,7 @@ Work without a working video link is incomplete.
 
 The video is half the grade. Show the run, then explain why `printStudent` takes `const Student&` and how `roster[i].gpa` picks one field.
 
-**Your demo:** _add your link here_
-
+**Your demo:** https://drive.google.com/file/d/1kwR9gHw0Qy6d0Og4OYb6hhTOqfBleroS/view?usp=sharing
 ## Scenario
 
 A `std::string` holds text and knows its own `size()`. A `struct` bundles fields that belong together. A helper that only reads a record takes it by `const &`, so nothing is copied.
@@ -31,7 +30,7 @@ Use `main.cpp`. Put your name in the file-top comment. The `Student` struct and 
 
 ## Environment
 
-VS 2022 · **GitHub Codespaces** · Replit · library machines
+VSCode · **g++** · home PC
 
 ## Procedure
 
